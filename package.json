@@ -1,0 +1,16 @@
+{
+  "name": "infopdm-2",
+  "version": "2.0.0",
+  "description": "Versi terbaru dari aplikasi infopdm.com menggunakan backend nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "infopdm",
+    "predictive",
+    "maintenance"
+  ],
+  "author": "abdullahibnuhasan",
+  "license": "MIT"
+}
